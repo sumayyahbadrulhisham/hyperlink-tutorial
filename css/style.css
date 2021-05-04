@@ -1,0 +1,30 @@
+body
+		{
+			background-color: lightgrey;
+		}
+
+a:link, a:visited
+		{
+			background-color: pink;
+			color: magenta;
+			text-decoration: none;
+			padding: 16px;
+			text-align: center;
+			display: inline-block;
+			font-family: georgia;
+		}
+
+
+a:hover
+		{
+			color:pink;
+			background-color: white;
+			text-decoration: underline;
+		}
+
+a:active
+		{
+			color: navy;
+			background-color: lightgrey;
+			text-decoration: underline;
+		}
